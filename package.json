@@ -1,0 +1,14 @@
+{
+	"name": "sass-chive",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.html",
+	"author": "",
+	"license": "MIT",
+	"scripts": {
+		"build:css": "sass ./src/init.scss ./dist/chive.css"
+	},
+	"devDependencies": {
+		"sass": "^1.32.7"
+	}
+}
